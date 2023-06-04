@@ -484,6 +484,10 @@ section {
     z-index: 9997;
   }
 
+  .video-index{
+    width: 22.5rem;
+  }
+
   .navbar ul {
     position: absolute;
     inset: 0;
